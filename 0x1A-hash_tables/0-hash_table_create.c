@@ -1,10 +1,8 @@
 #include "hash_tables.h"
 
 /**
- * defines the structure of hash table entry here
- * 
- * for example, you could use a linked list of key value pair
- * 
+ *defines the structure of hash table entry here
+ *for example, you could use a linked list of key value pair
  */
 hash_table_t *hash_table_create(unsigned long int size)
 {
